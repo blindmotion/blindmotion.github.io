@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Blind Motion Project
+email:       alexander996@yandex.ru
+author:      Alexander Ponomarev
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://blindmotion.github.io"
 
 # Google analytics
 google_analytics:
@@ -16,31 +16,31 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: httpblindmotiongithubio20150411mlinnavigation
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: lamerman
 stackoverflow_id:
 twitter_username:
 google_plus_id:
-linkedin_username:
+linkedin_username: alexander996@yandex.ru
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
+show_sharing_icons: true
+share_text: 'Share:'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
+share_digg: true
+share_tumblr: true
+share_reddit: true
+share_stumbleupon: true
 
 # Build settings
 markdown:     redcarpet
