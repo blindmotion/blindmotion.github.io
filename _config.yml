@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://blindmotion.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-61803025-1
 
 # Optional features
 animated:           false
