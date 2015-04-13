@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 Checkout the [Github repository](https://github.com/blindmotion/docs/wiki).
+
+Contacts:
+Alexander Ponomarev
+email: alexander996@yandex.ru
