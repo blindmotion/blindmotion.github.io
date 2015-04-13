@@ -116,7 +116,7 @@ and the model:
 
 Here we see that the model missed the lane change to the left after the first turn to the right and mistakenly added left lane change after the left turn. But, watching video, this situation seems disputable, the trajectory is really similar to left lane chenge. Here's a video of this part (best viewed in hd to be able to see the chart):
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/PEcoOtUiWY8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/PEcoOtUiWY8" frameborder="0" allowfullscreen></iframe>
 
 ## What is the accuracy of the classifier for test set?
 
